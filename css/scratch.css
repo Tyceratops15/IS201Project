@@ -1,0 +1,25 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1, h2, h3, h4 {
+    color: black;
+}
+
+.div1 {
+    background-color: rgb(224, 238, 250);
+    padding: 15px;
+    margin: 20px;
+}
+
+.div2 {
+    background-color: #e0c8c8;
+    padding: 15px;
+    margin: 20px;
+}
+
+.div3 {
+    padding: 15px;
+    margin: 20px;
+    background-color: #c7c3b0;
+}
